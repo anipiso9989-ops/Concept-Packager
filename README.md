@@ -1,5 +1,10 @@
 # Concept Packager
 
+> Note:
+> There are 2 versions of this file, both are available.
+>   The first version, `concept_packager.py`, is the one that I built personally.
+>   The second verion, `concept_packager2.py` is the vibe coded version that includes upgrades, according to some ideas that I had.
+
 What is this project, anyways?
 
 This is my attempt to create a simple harness that lets you input your notes (given that they're markdown files stored on your computer) and outputs a simpler version.
@@ -25,9 +30,9 @@ This program works in this way:
 ***
 ### How to Use
 
-1. download just the python file (concept_packager.py).
+1. download just one of the python files, depending on what you want.
 
-2. Go to [openrouter.com](openrouter.com) and create an account if you have not done so, already. Get an API key from them, and then paste in the exact key into line 5 of the python file (so open up the file in VSCode or a text editor app, and then on line 5, paste in your key between the double quotes) Now, save the python file and close it.
+3. Go to [openrouter.com](openrouter.com) and create an account if you have not done so, already. Get an API key from them, and then paste in the exact key into line 5 of the python file (so open up the file in VSCode or a text editor app, and then on line 5, paste in your key between the double quotes) Now, save the python file and close it.
 
 3.Open up your terminal. If you're on Windows, it's called Powershell. For Mac, it's just terminal.
 
@@ -40,4 +45,6 @@ Quit the program by pressing "q" on your keyboard.
 
 ## Contributions
 
-I built this project by myself in a day, so the only contributor is me. I'm planning to expand the project when I have free time, with some friends.
+I built this project by myself in a day, so the only contributor is me, for the original one.
+
+The enhanced version was vibe coded with GPT 5.6 Sol.
