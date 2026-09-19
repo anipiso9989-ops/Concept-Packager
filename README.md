@@ -3,7 +3,7 @@
 > Note:
 > There are 2 versions of this file, both are available.
 >   The first version, `concept_packager.py`, is the one that I built personally.
->   The second verion, `concept_packager2.py` is the vibe coded version that includes upgrades, according to some ideas that I had.
+>   The second verion, `concept_packager2.py` is the vibe coded version that includes upgrades, according to some ideas that I had. The upgrade specification document is [here](upgrade_spec.md).
 
 What is this project, anyways?
 
