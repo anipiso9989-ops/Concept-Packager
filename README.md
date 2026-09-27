@@ -1,10 +1,5 @@
 # Concept Packager
 
-> Note:
-> There are 2 versions of this file, both are available.
->   The first version, `concept_packager.py`, is the one that I built personally.
->   The second verion, `concept_packager2.py` is the vibe coded version that includes upgrades, according to some ideas that I had. The upgrade specification document is [here](upgrade_spec.md).
-
 What is this project, anyways?
 
 This is my attempt to create a simple harness that lets you input your notes (given that they're markdown files stored on your computer) and outputs a simpler version.
@@ -45,6 +40,4 @@ Quit the program by pressing "q" on your keyboard.
 
 ## Contributions
 
-I built this project by myself in a day, so the only contributor is me, for the original one.
-
-The enhanced version was vibe coded with GPT 5.6 Sol.
+I built this project by myself in a day, so the only contributor is me.
