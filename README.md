@@ -25,14 +25,14 @@ This program works in this way:
 ***
 ### How to Use
 
-1. download just one of the python files, depending on what you want.
+1. download the python file `concept_packager.py`.
 
-3. Go to [openrouter.com](openrouter.com) and create an account if you have not done so, already. Get an API key from them, and then paste in the exact key into line 5 of the python file (so open up the file in VSCode or a text editor app, and then on line 5, paste in your key between the double quotes) Now, save the python file and close it.
+3. Go to [openrouter.com](openrouter.com) and create an account if you have not done so, already. Get an API key from them, and then paste in the exact key into line 5 of the python file (so open up the file in VSCode or a text editor app, and then on line 5, paste in your key between the double quotes). Then, save the python file and close it.
 
-3.Open up your terminal. If you're on Windows, it's called Powershell. For Mac, it's just terminal.
+3.Open up your terminal. If you're on Windows, it's called Powershell. For Mac, it's just Terminal.
 
 4. On both Windows and Mac, type `cd Folder`, where you replace "Folder" with the exact name of the folder that the python file is in.
-Then, type `python concept_packager.py`. It'll ask you to type/paste in the filepath of the .md file you want to send. Paste it in, and you'll get your response. Note: on Mac, you need to type `python3 concept_packager.py`. Don't forget the "3".
+Then, type `python concept_packager.py`. It'll ask you to type/paste in the filepath(s) of the .md file you want to send. Paste them in (separated by commas), and you'll get your response. Note: on Mac, you need to type `python3 concept_packager.py`. Don't forget the "3".
 
 Quit the program by pressing "q" on your keyboard.
 
@@ -40,4 +40,4 @@ Quit the program by pressing "q" on your keyboard.
 
 ## Contributions
 
-I built this project by myself in a day, so the only contributor is me.
+I built this project by myself, so the only contributor is me. ChatGPT 6.1 Sol helped debug syntax and logic errors, but that's the only external contributions.
