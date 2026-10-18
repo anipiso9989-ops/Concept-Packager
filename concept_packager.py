@@ -65,7 +65,7 @@ while True:
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "apodex/apodex-1.1-mini:free", # switch this for a model of your choice
+                    "model": "nvidia/nemotron-3.5-super-vl:free", # switch this for a model of your choice
                     "messages": [
                         {
                             "role": "user",
